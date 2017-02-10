@@ -32,7 +32,7 @@ h5 {
 	background: #232323;
 	background-position: center top;
 	background-size: cover;
-	padding: 250px 0;
+	padding: 100px 0;
 	margin: 30px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
@@ -41,16 +41,15 @@ h5 {
 .blockgrey{
 	background: #232323;
   	margin: 60px auto;
- 	padding: 10px 0px 0px 0px;
-  	width: 90%;	
+ 	padding: 10px;
+  	width: 100%;	
 }
-
 
 .blockwhite{
 	background: #FFF;
   	margin: 60px auto;
- 	padding: 10px 0px 0px 0px;
-  	width: 90%;	
+ 	padding: 10px;
+  	width: 100%;	
 }
 
 .dice{
