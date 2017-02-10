@@ -29,7 +29,7 @@ h5 {
 }
 
 .hero {
-	background-image: url(../Shots_Cover_photo.jpeg);
+	background: #232323;
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
