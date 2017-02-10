@@ -46,7 +46,7 @@ h6 {
 
 .blockgrey{
 	background: #232323;
-  	margin: 20px auto;
+  	margin: 0px auto;
  	padding: 2px;
   	width: 100%;
 	color: #FFF
@@ -54,7 +54,7 @@ h6 {
 
 .blockwhite{
 	background: #FFF;
-  	margin: 20px auto;
+  	margin: 0px auto;
  	padding: 2px;
   	width: 100%;	
 }
