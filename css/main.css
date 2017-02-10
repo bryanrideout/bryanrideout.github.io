@@ -46,6 +46,10 @@ h5 {
   	width: 90%;	
 }
 
+.dice{
+	display: inline-block
+}
+
 p {
 	color: black;
 	font-size: 2em;
