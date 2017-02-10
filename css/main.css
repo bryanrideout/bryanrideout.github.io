@@ -33,22 +33,21 @@ h5 {
 	background-position: center top;
 	background-size: cover;
 	padding: 100px 0;
-	margin: 30px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
 .blockgrey{
 	background: #232323;
-  	margin: 60px auto;
- 	padding: 10px;
+  	margin: 20px auto;
+ 	padding: 2px;
   	width: 100%;	
 }
 
 .blockwhite{
 	background: #FFF;
-  	margin: 60px auto;
- 	padding: 10px;
+  	margin: 20px auto;
+ 	padding: 2px;
   	width: 100%;	
 }
 
