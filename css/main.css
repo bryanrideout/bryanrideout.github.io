@@ -16,14 +16,18 @@ h2 {
 }
 
 h3 {
-	color: Black; 
+	color: #ffffff; 
 }
 
 h4 {
-	color: #ffffff;
+	color: Black;
 	font-size: 2em; 
 }
 
+h5 {
+	color: Black;
+	font-size: 1.5em; 
+}
 
 .hero {
 	background-image: url(../Shots_Cover_photo.jpeg);
