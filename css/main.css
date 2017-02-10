@@ -67,13 +67,7 @@ p {
 	color: black;
 	font-size: 2em;
 	text-align: left;
-	padding: 5px;
-}
-
-.hero a {
-	color: #00FFAA;
-	font-size: 24px;
-	text-decoration: none;
+	padding: 5px 100px;
 }
 
 #footer {
