@@ -15,6 +15,11 @@ h2 {
 	font-size: 56px; 
 }
 
+h3 {
+	color: #ffffff;
+	font-size: 2em; 
+}
+
 
 .hero {
 	background-image: url(../Shots_Cover_photo.jpeg);
@@ -28,7 +33,7 @@ h2 {
 
 
 p {
-	color: #ffffff;
+	color: black;
 	font-size: 2em;
 }
 
