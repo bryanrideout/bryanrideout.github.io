@@ -61,3 +61,12 @@ p {
 	font-size: 16px;
 }
 
+ul {
+  padding: 0;
+  margin: 10px 0px;
+}
+
+li {
+  margin: 0;
+  list-style: none;
+}
