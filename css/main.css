@@ -85,9 +85,15 @@ p {
 ul {
   padding: 0;
   margin: 10px 0px;
+  list-style: none;
+}
+
+ol {
+  text-align: left;
+  padding: 5px 100px;
+  margin: 10px 0px;
 }
 
 li {
   margin: 0;
-  list-style: none;
 }
