@@ -63,7 +63,7 @@ h6 {
 .dice{
 	display: inline-block;
 	width: 250px;
-   	height: 350px;
+   	height: auto;
     	margin: 10px;
 	text-align: center;
 	vertical-align: top;
